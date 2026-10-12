@@ -1,0 +1,3 @@
+Combinations:   248
+Generated tests:20
+Generation time:0:00:00
